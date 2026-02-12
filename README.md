@@ -2,7 +2,7 @@
 button-driven menu navigation system for a small embedded device with a limited user interface
 
 Simulation Link
-[Simulation on Wokwi](https://wokwi.com/projects/455627592697353217)
+(https://wokwi.com/projects/455627592697353217)
 Development Challenges
 During development, I faced a couple of challenges:
 
